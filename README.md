@@ -89,7 +89,7 @@ Endpoints tested: `/posts`, `/posts/{id}`, `/posts/{id}/comments`
 
 ## 👩‍💻 Author
 
-**[Ton Prénom Nom]**  
+**Fatima zahra RIYAD**  
 Junior QA Engineer | API Testing | Test Automation  
 📧 [fatimazahrary.12@gmail.com]  
 🔗 [linkedin.com/in/fatimazahrary]
